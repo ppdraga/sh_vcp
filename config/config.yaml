@@ -1,0 +1,9 @@
+
+# some settings and credentials here
+
+DATA_SOURCE:
+    db: storehouse
+    user: storehouse_user
+    password: storehouse_password
+    host: localhost0
+    port: 3306
