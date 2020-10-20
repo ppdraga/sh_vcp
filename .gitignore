@@ -1,5 +1,7 @@
 env
+.idea
 *.sqlite
 *.sqlite-journal
 *.png
 *.pyc
+__pycache__
